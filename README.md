@@ -19,3 +19,8 @@ But there are still some contents such as random forest (decision tree) and LDA 
 so next time I will update another version.
 
 Then I am planning write something about convolutional neural networks.
+
+# 3rd Change
+Upload files of original lectures.
+
+Upload code source files written by myself to plot most of pictures in this booklet. 
